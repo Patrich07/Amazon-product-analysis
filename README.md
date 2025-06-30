@@ -69,6 +69,19 @@ To clean and analyze Amazon review data in Excel, answer 14 business questions u
 
 ---
 
+
+
+![drag01](https://github.com/user-attachments/assets/a9c6e11c-3bf8-433c-aa23-c985e17d8b2e)
+
+
+
+
+
+![drag002](https://github.com/user-attachments/assets/b59032ca-ff27-4572-8042-5cb315b58a84)
+
+
+---
+
 ## 📊 Key Insights
 
 - **Home Improvement** products had the highest average discount (57.5%).

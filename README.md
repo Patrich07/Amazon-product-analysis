@@ -65,7 +65,9 @@ To clean and analyze Amazon review data in Excel, answer 14 business questions u
 11. How does the rating relate to the level of discount? 
 12. How many products have fewer than 1,000 reviews? 
 13. Which categories have products with the highest discounts? 
-14. Identify the top 5 products in terms of rating and number of reviews combined. 
+14. Identify the top 5 products in terms of rating and number of reviews combined.
+
+---
 
 ## 📊 Key Insights
 

@@ -48,7 +48,7 @@ To clean and analyze Amazon review data in Excel, answer 14 business questions u
 
 ---
 
-###📌 Sample Business Questions Answered
+### 📌 Sample Business Questions Answered
 
 1. What is the average discount percentage by product category? 
 2. How many products are listed under each category? 
